@@ -11,3 +11,6 @@ npm install
 2. 在 `test.js` 填入sessionId，具体参数需要自己抓包获取
 
 3. 执行 `node test.js`
+
+## 效果
+![preview](preview.jpg)
